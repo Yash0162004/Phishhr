@@ -1,1 +1,1 @@
-Phishrrr
+Phishrr is a cybersecurity-based college project aimed at detecting phishing attacks, primarily through the analysis of suspicious URLs and email content. The core objective of Phishrr is to help users identify and avoid malicious websites that attempt to steal sensitive information such as login credentials, banking details, or personal data.
